@@ -141,6 +141,10 @@ if ($new -eq $true){
         creatingLoading -fileORdir "directory" -createpath "$binairiesDir\$currentProgramName" -createname "$currentProgramName"
         creatingLoading -fileORdir "directory" -createpath "$userDataDir\$currentProgramName" -createname "$currentProgramName"
     }
+    Write-Output " "
+    Write-Output "=========================================================================================="
+    Write-Output "Downloading software :"
+    dlGitHub -repo "silloky/$currentProgramName" -preRelease $false
 }elseif ($new -eq $false){
 
 }
