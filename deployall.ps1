@@ -2,7 +2,7 @@
     param (
         [Parameter(Mandatory = $true, Position = 0)] [string] $createType,
         [Parameter(Mandatory = $true, Position = 0)] [string] $createpath,
-        [Parameter(Mandatory = $true, Position = 0)] [string] $createname,
+        [Parameter(Mandatory = $false, Position = 0)] [string] $createname,
         [Parameter(Mandatory = $false, Position = 0)] [string] $shortcutDestPath,
         [Parameter(Mandatory = $true, Position = 0)] [string] $lang
     )
@@ -12,6 +12,20 @@
         2 = "Done !"
         3 = "Failed"
         4 = "already exists"
+        'directory' = "directory"
+        'shortcut' = "shortcut"
+        'file' = "file"
+    }
+
+    $frlangmap = @{
+        1 = "Creation"
+        2 = "Terminé !"
+        3 = "Erreur"
+        4 = "existe déjà"
+        "directory" = "répertoire"
+        "shortcut" = "raccourci"
+        "file" = "fichier"
+
     }
     
     if ($lang -eq "FR"){
@@ -41,7 +55,7 @@
     if ($createExists -eq $false) {
         if (($createType -eq "file") -or ($createType -eq "directory")){
             $null = New-Item -Path "$createpath" -Value "$foldername" -ItemType "directory"
-            Write-Host "`r[✓] $($langmap.1) $createType : $createpath... $($langmap.2)"
+            Write-Host "`r[✓] $($langmap.1) $($langmap["$createType"]) : $createpath... $($langmap.2)"
         } elseif ($createType -eq "shortcut"){
             $WScriptObj = New-Object -ComObject ("WScript.Shell")
             $shortcut = $WscriptObj.CreateShortcut($createpath)
@@ -49,7 +63,7 @@
             $shortcut.Save()
         }
     } else {
-        Write-Host "`r[✗] $($langmap.1) $createType : $createpath... $($langmap.3) ($createType $($langmap.4))"
+        Write-Host "`r[✗] $($langmap.1) $($langmap["$createType"]) : $createpath... $($langmap.3) ($createType $($langmap.4))"
     }
 }
 
@@ -68,6 +82,14 @@ function dlGitHub {
         4 = "Extracting archive (zip)"
         5 = "Cleaning up"
     }
+
+    $frlangmap = @{
+        1 = "Détermination de la dernière version"
+        2 = "Terminé !"
+        3 = "Téléchargement de la dernière version"
+        4 = "Extraction de l'archive (zip)"
+        5 = "Nettoyage"
+    }
     
     if ($lang -eq "FR"){
         $langmap = $frlangmap
@@ -76,7 +98,7 @@ function dlGitHub {
     }
 
     #variable setup
-    $credentials="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"
+    $credentials="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"
     $repo = "silloky/$repo"
     $headers = @{
         'Authorization' = "token $credentials"
@@ -144,6 +166,7 @@ function dlGitHub {
         $timesofpoint = $timesofpoint + 1
     } until ($timesofpoint -eq 2)
     Remove-Item "$downloadPath" -Force
+    Write-Host "`r[✓] $($langmap.6)... $($langmap.2)"
 
     #format version number
     $versionNumber = $versionCode.replace('v','')
@@ -181,13 +204,15 @@ $frlangmap = @{
     '19' = "Voici les différentes options :"
     '20' = " 1. Dans un dossier sur le Bureau (encombre votre bureau)"
     '21' = " 2. Dans un dossier du menu Démarrer (recommandé)"
-    '22' = " 3. Dans system32, vous pouvez donc lancer depuis le terminal (avancé)"
+    '22' = " 3. Dans system32, vous pouvez donc lancer depuis le terminal (NE PAS SELECTIONNER, PAS ENCORE STABLE)"
     '23' = "Veuillez saisir le nombre d'options que vous souhaitez installer en les séparant par des espaces (par exemple : 2 3)"
     '24' = "Comme vous avez déjà installé certains de nos produits, que souhaitez-vous faire :"
     '25' = " 1. Mettre à jour (conserver la configuration)         3. Réinstaller la même version (nouvelle version, reconfigurer)"
     '26' = " 2. Mettre à jour (fraîchement, reconfigurer)          4. Désinstaller (supprime la configuration et les binaires)"
     '27' = "Veuillez taper UN chiffre après les 2 points "
     '28' = "Veuillez saisir les numéros des programmes que vous souhaitez installer séparés par des espaces (par exemple : 2 3 5)"
+    '29' = "Aller voir le code source et nos autres produits sur GitHub"
+    '30' = "Envoyer un e-mail aux développeurs"
 }
 
 $enlangmap = @{
@@ -212,32 +237,36 @@ $enlangmap = @{
     '19' = "Here are the different options :"
     '20' = "    1. In a Dektop folder (clutters your Desktop)"
     '21' = "    2. In a Start Menu folder (recommended)"
-    '22' = "    3. In system32, so you can launch from the terminal (advanced)"
+    '22' = "    3. In system32, so you can launch from the terminal (DO NOT SELECT, NOT STABLE YET)"
     '23' = "Please type in the numbers of options you want to install separated by spaces (i.e. 2 3) "
     '24' = "As you already have some of our products installed, what do you wish to do :"
     '25' = "  1. Update (keep config)             3. Reinstall same version (fresh, reconfigure)"
     '26' = "  2. Update (fresh, reconfigure)      4. Uninstall (removes config and binaries)"
     '27' = "Please type ONE number after the 2 dots "
     '28' = "Please type in the numbers of programs you want to install separated by spaces (i.e. 2 3 5) "
+    '29' = "Check out the code and other products on GitHub"
+    '30' = "Send an email to the developers"
 }
 
 
 # check if script is run as admin
-# if (-NOT ([Security.Principal.WindowsPrincipal] [Security.Principal.WindowsIdentity]::GetCurrent()).IsInRole(`
-# [Security.Principal.WindowsBuiltInRole] "Administrator")) {
-#     Write-Output "You do not have sufficient privilieges to run this script. Pease run it as administrator."
-#     Write-Output "Vous n'avez assez de privilèges pour démarrer ce script. Merci de le lancer en administrateur"
-#     $time = 5
-#     do {
-#         Write-Host -NoNewline "`rExiting in $time seconds, arrêt dans $time secondes..."
-#         $time = $time - 1
-#         Start-Sleep 1
-#     } until ($time -eq 0)
-#     exit 
-# }
+if (-NOT ([Security.Principal.WindowsPrincipal] [Security.Principal.WindowsIdentity]::GetCurrent()).IsInRole(`
+[Security.Principal.WindowsBuiltInRole] "Administrator")) {
+    Clear-Host
+    Write-Output "You do not have sufficient privilieges to run this script. Pease run it as administrator."
+    Write-Output "Vous n'avez assez de privilèges pour démarrer ce script. Merci de le lancer en administrateur"
+    $time = 5
+    do {
+        Write-Host -NoNewline "`rExiting in $time seconds, arrêt dans $time secondes..."
+        $time = $time - 1
+        Start-Sleep 1
+    } until ($time -eq 0)
+    exit 
+}
 
 #language selection
 if ((Test-Path -Path "$env:APPDATA\Kirkwood Soft.\LANGUAGE" -PathType Leaf) -eq $false){
+    Clear-Host
     Write-Output "This script is available in 2 languages : French and English (United Kingdom)"
     Write-Output "Ce script est disponible en 2 langues : Français et Anaglais (britannique)"
     $lang = Read-Host "Which language do you wish to use ? Quelle langue souhaitez-vous utiliser ? [FR | EN] "
@@ -251,6 +280,7 @@ if ($lang -eq "FR"){
     $langmap = $enlangmap
 }
 
+Clear-Host
 Write-Output " _  ___      _                            _     _____        __ _                          "
 Write-Output "| |/ (_)    | |                          | |   / ____|      / _| |                         "
 Write-Output "| ' / _ _ __| | ___      _____   ___   __| |  | (___   ___ | |_| |___      ____ _ _ __ ___ "
@@ -318,8 +348,8 @@ if ($new -eq $true){
     Write-Output $langmap['10']
     foreach ($newInstallOptions_currentOption in $newInstallOptions_Array){
         $currentProgramName = $newInstallOptions_currentOptionName["$newInstallOptions_currentOption"]
-        creatingLoading -createType "directory" -createpath "$binairiesDir\$currentProgramName" -createname "$currentProgramName"
-        creatingLoading -createType "directory" -createpath "$userDataDir\$currentProgramName" -createname "$currentProgramName"
+        creatingLoading -createType "directory" -createpath "$binairiesDir\$currentProgramName" -createname "$currentProgramName" -lang "$lang"
+        creatingLoading -createType "directory" -createpath "$userDataDir\$currentProgramName" -createname "$currentProgramName" -lang "$lang"
     }
     Write-Output " "
     Write-Output "=========================================================================================="
@@ -327,10 +357,10 @@ if ($new -eq $true){
     foreach ($newInstallOptions_currentOption in $newInstallOptions_Array){
         $currentProgramName = $newInstallOptions_currentOptionName["$newInstallOptions_currentOption"]
         Write-Output "      - $currentProgramName"
-        $versionNumber = dlGitHub -repo "$currentProgramName" -extractLocation $binairiesDir\$currentProgramName -file "main.zip"
+        $versionNumber = dlGitHub -repo "$currentProgramName" -endLocation $binairiesDir\$currentProgramName -file "deploy.zip" -lang "$lang"
         Add-Content $binairiesDir\VERSIONS "$currentProgramName : $versionNumber"
     }
-    Write-Output $langmap['12']
+    Write-Output "`n$($langmap['12'])"
     Write-Output " "
     Write-Output "=========================================================================================="
     if ("ServerDeploy" -in $newInstallOptions_Array){
@@ -358,24 +388,84 @@ if ($new -eq $true){
     foreach ($referencingOptions_currentOption in $referencingOptions_Array){
         if ($referencingOptions_currentOption -eq "1"){
             $folderPath = [Environment]::GetFolderPath("Desktop")
-            if ((Test-Path $desktopPath\Kirkwood Soft) -eq $false){
-                creatingLoading -createType "directory" -createpath "$folderPath\Kirkwood Soft" -createname "Kirkwood Soft"
+            if ((Test-Path "$folderPath\Kirkwood Soft") -eq $false){
+                creatingLoading -createType "directory" -createpath "$folderPath\Kirkwood Soft" -createname "Kirkwood Soft" -lang "$lang"
             }
-            
+            foreach ($newInstallOptions_currentOption in $newInstallOptions_Array){
+                $currentProgramName = $newInstallOptions_currentOptionName["$newInstallOptions_currentOption"]
+                creatingLoading -createType "shortcut" -createpath "$folderPath\Kirkwood Soft\$currentProgramName.lnk" -shortcutDestPath "$binairiesDir\$currentProgramName\deploy.ps1" -lang "$lang"
+            }
+        }
         if ($referencingOptions_currentOption -eq "2"){
             if ($installLocation -eq "S"){
                 $folderPath = [Environment]::GetFolderPath('CommonStartMenu')
             } elseif ($installLocation -eq "U"){
-                $folderPath = [Environment]::GetFolderPath('System')
+                $folderPath = [Environment]::GetFolderPath('StartMenu')
             }
-            creatingLoading 
+            if ((Test-Path "$folderPath\Kirkwood Soft") -eq $false){
+                creatingLoading -createType "directory" -createpath "$folderPath\Kirkwood Soft" -createname "Kirkwood Soft" -lang "$lang"
+            }
+            foreach ($newInstallOptions_currentOption in $newInstallOptions_Array){
+                $currentProgramName = $newInstallOptions_currentOptionName["$newInstallOptions_currentOption"]
+                creatingLoading -createType "shortcut" -createpath "$folderPath\Programs\Kirkwood Soft\$currentProgramName.lnk" -shortcutDestPath "$binairiesDir\$currentProgramName\deploy.ps1" -lang "$lang"
+            }
+            creatingLoading -createType "shortcut" -createpath "$folderPath\Kirkwood Soft\$($langmap['29']).url" -shortcutDestPath "https://github.com/silloky" -lang "$lang"
+            creatingLoading -createType "shortcut" -createpath "$folderPath\Kirkwood Soft\$($langmap['30']).url" -shortcutDestPath "mailto:elias.kirkwood@gmail.com?subject=Kirkwood%20Soft%20products%20enquiry" -lang "$lang"
         }
         if ($referencingOptions_currentOption -eq "3"){
-            $folderPath = $env:windir + "\System32"
+            $folderPath = [Environment]::GetFolderPath('System')
+            #DO SOMETHING HERE FOR SYSTEM32
         }
     }
     Write-Output " "
     Write-Output "=========================================================================================="
+    Write-Output "Configuring updater :"
+    Write-Output " "
+    Write-Output "The apps you just installed are going to change often. To benefit of these improvements, you have to update the apps."
+    Write-Output "Update checking yourself is tedious, so we created a little program to automatically check for updates when you start your computer"
+    Write-Output "It will let you know if a newer version is avilable"
+    if ((Read-Host "Do you wish to install it (recommended) ? [y | n] ") -eq "y"){
+        dlGitHub -repo "DeployScript" -endLocation $binairiesDir -file "updateChecker.ps1" -lang "$lang"
+        Write-Output " "
+        Write-Output "------------------------------------------------------------------------------------------"    
+        Write-Output "Scheduling task :"
+        $timesofpoint = 0
+        do {
+            Start-Sleep -Milliseconds 400
+            Write-Host -NoNewline "`r[.] Configuring action..."
+            Start-Sleep -Milliseconds 400
+            Write-Host -NoNewline "`r[ ] Configuring action..."
+            $timesofpoint = $timesofpoint + 1
+        } until ($timesofpoint -eq 2)
+        $scheduledAction = New-ScheduledTaskAction -Execute 'pwsh.exe' -Argument "-File "$binairiesDir\updateChecker.ps1""
+        $scheduledTrigger = New-ScheduledTaskTrigger -AtStartup
+        $scheduledSettings = New-ScheduledTaskSettingsSet -RunOnlyIfNetworkAvailable
+        $scheduledTask = New-ScheduledTask -Action $scheduledAction -Trigger $scheduledTrigger -Settings $scheduledSettings
+        Register-ScheduledTask -TaskName 'Kirkwood Soft update checker' -InputObject $scheduledTask -User "NT AUTHORITY\LOCALSERVICE" 
+    }
+
+    Write-Output " "
+    Write-Output "=========================================================================================="
+    Write-Output "Overview :"
+    Write-Output " "
+    Write-Output "You have installed $($newInstallOptions_Array.Length) Kirkwood Soft programs :"
+    foreach ($newInstallOptions_currentOption in $newInstallOptions_Array){
+        $currentProgramName = $newInstallOptions_currentOptionName["$newInstallOptions_currentOption"]
+        Write-Output "      - $currentProgramName"
+    }
+
+    Write-Output "You can access the newly-installed programs through $($referencingOptions_Array.Length) different ways :"
+    foreach ($referencingOptions_currentOption in $referencingOptions_Array){
+        if ($referencingOptions_currentOption -eq "1"){
+            Write-Output "      - With a Desktop folder : $([Environment]::GetFolderPath("Desktop"))\Kirkwood Soft"
+        }
+        if ($referencingOptions_currentOption -eq "2"){
+            Write-Output "      - With a Start Menu folder : you can access them through the menu that appears when you click on 🪟 (or Windows key)"
+        }
+        if ($referencingOptions_currentOption -eq "3"){
+            Write-Output "      - With a command in the Command Prompt : NOT STABLE"
+        }
+    }
 }elseif ($new -eq $false){
 
 }
