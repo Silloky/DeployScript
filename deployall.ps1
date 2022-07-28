@@ -1,4 +1,6 @@
-﻿function creatingLoading {
+﻿$versionofDeployScript = "1.0.1"
+
+function creatingLoading {
     param (
         [Parameter(Mandatory = $true, Position = 0)] [string] $createType,
         [Parameter(Mandatory = $true, Position = 0)] [string] $createpath,
@@ -98,7 +100,7 @@ function dlGitHub {
     }
 
     #variable setup
-    $credentials="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"
+    $credentials="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"
     $repo = "silloky/$repo"
     $headers = @{
         'Authorization' = "token $credentials"
@@ -265,13 +267,13 @@ if (-NOT ([Security.Principal.WindowsPrincipal] [Security.Principal.WindowsIdent
 }
 
 #language selection
-if ((Test-Path -Path "$env:APPDATA\Kirkwood Soft.\LANGUAGE" -PathType Leaf) -eq $false){
+if ((Test-Path -Path "$env:APPDATA\Kirkwood Soft.\LANGUAGE.txt" -PathType Leaf) -eq $false){
     Clear-Host
     Write-Output "This script is available in 2 languages : French and English (United Kingdom)"
     Write-Output "Ce script est disponible en 2 langues : Français et Anaglais (britannique)"
     $lang = Read-Host "Which language do you wish to use ? Quelle langue souhaitez-vous utiliser ? [FR | EN] "
 } else {
-    $lang = Get-Content -LiteralPath "$env:APPDATA\Kirkwood Soft\LANGUAGE"
+    $lang = Get-Content -LiteralPath "$env:APPDATA\Kirkwood Soft\LANGUAGE.txt"
 
 }
 if ($lang -eq "FR"){
@@ -342,6 +344,8 @@ if ($new -eq $true){
         $userDataDir = "$env:appdata\Kirkwood Soft\data"
     }
     creatingLoading -createType "directory" -createpath "$binairiesDir" -createname "$pathname" -lang "$lang"
+    Add-Content -Path "$binairiesDir\LANGUAGE.txt" -Value "$lang"
+    Add-Content -Path "$binairiesDir\VERSION.txt" -Value "DeployScript = $versionofDeployScript"
     creatingLoading -createType "directory" -createpath "$userDataDir" -createname "$pathname" -lang "$lang"
     Write-Output " "
     Write-Output "=========================================================================================="
@@ -358,7 +362,7 @@ if ($new -eq $true){
         $currentProgramName = $newInstallOptions_currentOptionName["$newInstallOptions_currentOption"]
         Write-Output "      - $currentProgramName"
         $versionNumber = dlGitHub -repo "$currentProgramName" -endLocation $binairiesDir\$currentProgramName -file "deploy.zip" -lang "$lang"
-        Add-Content $binairiesDir\VERSIONS "$currentProgramName : $versionNumber"
+        Add-Content -Value "$currentProgramName = $versionNumber" -Path "$binairiesDir\$currentProgramName\VERSION.txt"
     }
     Write-Output "`n$($langmap['12'])"
     Write-Output " "
