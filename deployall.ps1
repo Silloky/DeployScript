@@ -372,7 +372,7 @@ if ($new -eq $true){
         $runServerDeploy = (Read-Host $langmap['14'])
         if (($runServerDeploy -eq "y") -or ($runServerDeploy -eq "o")){
             Write-Output $langmap['15']
-            #CALL SERVERDEPLOY 
+            & $binairiesDir\ServerDeploy\serverdeploy.ps1 -NewInstallation
         }else{
             Write-Output $langmap['16']
         }
