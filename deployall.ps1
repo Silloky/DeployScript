@@ -1,5 +1,21 @@
 ﻿$versionofDeployScript = "1.0.1"
 
+function Decrypt {
+    Param(
+        [Parameter(Mandatory=$True, Position=0, ValueFromPipeLine=$true)] [Alias("String")] [String]$EncryptedString,
+    
+        [Parameter(Mandatory=$True, Position=1)] [Alias("Key")] [byte[]]$EncryptionKey
+    )
+    Try{
+        $SecureString = ConvertTo-SecureString $EncryptedString -Key $EncryptionKey
+        $bstr = [Runtime.InteropServices.Marshal]::SecureStringToBSTR($SecureString)
+        [string]$String = [Runtime.InteropServices.Marshal]::PtrToStringAuto($bstr)
+        [Runtime.InteropServices.Marshal]::ZeroFreeBSTR($bstr)
+
+        Return $String
+    }
+    Catch{Throw $_}
+}
 function creatingLoading {
     param (
         [Parameter(Mandatory = $true, Position = 0)] [string] $createType,
@@ -74,7 +90,9 @@ function dlGitHub {
         [Parameter(Mandatory = $true, Position = 0)] [string] $repo,
         [Parameter(Mandatory = $true, Position = 0)] [string] $endLocation,
         [Parameter(Mandatory = $true, Position = 0)] [string] $file,
-        [Parameter(Mandatory = $true, Position = 0)] [string] $lang
+        [Parameter(Mandatory = $true, Position = 0)] [string] $lang,
+        [Parameter(Mandatory = $true, Position = 0)] [string] $token,
+        [Parameter(Mandatory = $true, Position = 0)] [string] $key
     )
     #language setup
     $enlangmap = @{
@@ -100,7 +118,9 @@ function dlGitHub {
     }
 
     #variable setup
-    $credentials="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"
+    $enc = [system.Text.Encoding]::UTF8
+    $Key = $enc.GetBytes($key)
+    $credentials = Decrypt -EncryptedString "$token" -EncryptionKey $Key
     $repo = "silloky/$repo"
     $headers = @{
         'Authorization' = "token $credentials"
@@ -361,7 +381,8 @@ if ($new -eq $true){
     foreach ($newInstallOptions_currentOption in $newInstallOptions_Array){
         $currentProgramName = $newInstallOptions_currentOptionName["$newInstallOptions_currentOption"]
         Write-Output "      - $currentProgramName"
-        $versionNumber = dlGitHub -repo "$currentProgramName" -endLocation $binairiesDir\$currentProgramName -file "deploy.zip" -lang "$lang"
+        $token = "76492d1116743f0423413b16050a5345MgB8AEUATgBJAHQASgBUAGgAMQBtAEoAOAAyAHYAYwBhAGIATQBGAE4AQQBDAHcAPQA9AHwANwAwADkAZQBiAGEAYwAwADkANgA5ADgAZgBiADMANABiADMANAA3AGIAMwA2ADgAMgBiADIAZQA5ADgANgBmADUANgAxADMAZAA2AGEAOABiAGUAYQA3ADUAMAA5AGMAMQBlAGYAZAA0ADYAOQA4AGQAYwA4ADEAMQA0ADIAYgA2AGQANABkAGIAOAAyAGYAMwA5ADQAYwA1ADMAZAAyADEANABiADUAZgAzAGYAZABiAGYAMwBkADcAYwBkADkANABlAGYANwA0ADkAOQA2ADAAYwAwADkAYgBjAGIAYgAxAGUAZgA2ADAAYgAzADgANQBlADIAOQAzAGYANgBlADAANQA2AGYANABkAGEANgA1ADAAOQA4ADYANQA5ADUAOAAyADIAMgBiADAANwA2ADkAZQA0ADIAOABhADEAOQA0AGMANAA0AGMAYQAyAGEAMABmADEANAA1ADMANQBkADAAYwA1ADQAMwBjADkANAAyADAAMQAwADQAMAAzADgA"
+        $versionNumber = dlGitHub -repo "$currentProgramName" -endLocation $binairiesDir\$currentProgramName -file "deploy.zip" -lang "$lang" -token "$token" -key "Computer Science"
         Add-Content -Value "$currentProgramName = $versionNumber" -Path "$binairiesDir\$currentProgramName\VERSION.txt"
     }
     Write-Output "`n$($langmap['12'])"
@@ -429,7 +450,8 @@ if ($new -eq $true){
     Write-Output "Update checking yourself is tedious, so we created a little program to automatically check for updates when you start your computer"
     Write-Output "It will let you know if a newer version is avilable"
     if ((Read-Host "Do you wish to install it (recommended) ? [y | n] ") -eq "y"){
-        dlGitHub -repo "DeployScript" -endLocation $binairiesDir -file "updateChecker.ps1" -lang "$lang"
+        $token = "76492d1116743f0423413b16050a5345MgB8AEUATgBJAHQASgBUAGgAMQBtAEoAOAAyAHYAYwBhAGIATQBGAE4AQQBDAHcAPQA9AHwANwAwADkAZQBiAGEAYwAwADkANgA5ADgAZgBiADMANABiADMANAA3AGIAMwA2ADgAMgBiADIAZQA5ADgANgBmADUANgAxADMAZAA2AGEAOABiAGUAYQA3ADUAMAA5AGMAMQBlAGYAZAA0ADYAOQA4AGQAYwA4ADEAMQA0ADIAYgA2AGQANABkAGIAOAAyAGYAMwA5ADQAYwA1ADMAZAAyADEANABiADUAZgAzAGYAZABiAGYAMwBkADcAYwBkADkANABlAGYANwA0ADkAOQA2ADAAYwAwADkAYgBjAGIAYgAxAGUAZgA2ADAAYgAzADgANQBlADIAOQAzAGYANgBlADAANQA2AGYANABkAGEANgA1ADAAOQA4ADYANQA5ADUAOAAyADIAMgBiADAANwA2ADkAZQA0ADIAOABhADEAOQA0AGMANAA0AGMAYQAyAGEAMABmADEANAA1ADMANQBkADAAYwA1ADQAMwBjADkANAAyADAAMQAwADQAMAAzADgA"
+        dlGitHub -repo "DeployScript" -endLocation $binairiesDir -file "updateChecker.ps1" -lang "$lang" -token "$token" -key "Computer Science"
         Write-Output " "
         Write-Output "------------------------------------------------------------------------------------------"    
         Write-Output "Scheduling task :"
