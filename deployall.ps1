@@ -285,7 +285,7 @@ $enlangmap = @{
 # }
 
 #language selection
-if ((Test-Path -Path "$env:APPDATA\Kirkwood Soft.\LANGUAGE.txt" -PathType Leaf) -eq $false){
+if ((Test-Path -Path "$env:APPDATA\Kirkwood Soft\LANGUAGE.txt" -PathType Leaf) -eq $false){
     Clear-Host
     Write-Output "This script is available in 2 languages : French and English (United Kingdom)"
     Write-Output "Ce script est disponible en 2 langues : Français et Anaglais (britannique)"
@@ -379,7 +379,7 @@ if ($new -eq $true){
         $currentProgramName = $newInstallOptions_currentOptionName["$newInstallOptions_currentOption"]
         Write-Output "      - $currentProgramName"
         $token = "76492d1116743f0423413b16050a5345MgB8AFgAUQBqAE8AcgA0AEgAaQBpAEgAQQBjAHYAagBTAHIARgBNADAALwA2AFEAPQA9AHwAZQBjADUAYQA2AGIAYwA2AGUANwBjADEANQA5ADAAOAA1ADgAOABlADEAMAAxADUAOQA2AGEAZQA1AGQANQAwADcANABmAGYAZgA3ADQAZAA4AGIAMQAyADgAYwBlADYAZgA1ADMAYwBhADMAMgAyADAANgA2ADIANAA4AGQAMwA0ADcAZgAyAGQAYwBlADgAYQA3ADIAZQA0AGEAOQAxADYAMAA1ADQAMgA2AGMAZQBhAGYANwA5ADIANgBhADQAOQA0ADMAMgBhAGQANQA1AGUAMgBjADgAYQA1ADUANABmADkAYgA4ADIAMAAxAGYANABhADIAZgAyAGEAOQA4ADcAMwAzADUAZAA1ADkAYwAyADQAOABlADUAOABlAGIANwAwADAAZABlADcAYgBkADMAYwA4ADMAZgBjAGUAMgBjADQAMABkADIAYwA3ADUAMwBhADgAOQAyADIAMgAwAGQAYwA1AGEAMgAyADkAZQAzADAAOQBlADYAMABkADEA"
-        $versionNumber = dlGitHub -repo "$currentProgramName" -endLocation $binairiesDir\$currentProgramName -file "deploy.zip" -lang "$lang" -token "$token" -key "Computer Science"
+        $versionNumber = dlGitHub -repo "$currentProgramName" -endLocation $binairiesDir\$currentProgramName -file "main.ps1" -lang "$lang" -token "$token" -key "Computer Science"
         Add-Content -Value "$currentProgramName = $versionNumber" -Path "$binairiesDir\$currentProgramName\VERSION.txt"
     }
     Write-Output "`n$($langmap['12'])"
@@ -685,6 +685,10 @@ if ($new -eq $true){
 }
 
 Pause
+
+
+
+
 
 
 
