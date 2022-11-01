@@ -108,6 +108,138 @@
 ##OcrLFtDXTiW5
 ##LM/BD5WYTiiZ4tI=
 ##McvWDJ+OTiiZ4tI=
+##OMvOC56PFnzN8u+Vs1Q=
+##M9jHFoeYB2Hc8u+Vs1Q=
+##PdrWFpmIG2HcofKIo2QX
+##OMfRFJyLFzWE8uK1
+##KsfMAp/KUzWJ0g==
+##OsfOAYaPHGbQvbyVvnQX
+##LNzNAIWJGmPcoKHc7Do3uAuO
+##LNzNAIWJGnvYv7eVvnQX
+##M9zLA5mED3nfu77Q7TV64AuzAgg=
+##NcDWAYKED3nfu77Q7TV64AuzAgg=
+##OMvRB4KDHmHQvbyVvnQX
+##P8HPFJGEFzWE8tI=
+##KNzDAJWHD2fS8u+Vgw==
+##P8HSHYKDCX3N8u+Vgw==
+##LNzLEpGeC3fMu77Ro2k3hQ==
+##L97HB5mLAnfMu77Ro2k3hQ==
+##P8HPCZWEGmaZ7/K1
+##L8/UAdDXTlGDjpHa5z154nfKR3gnYdynkoXq4ISs8+X19SDBTPo=
+##Kc/BRM3KXxU=
+##
+##
+##fd6a9f26a06ea3bc99616d4851b372ba
+##[Ps1 To Exe]
+##
+##Kd3HDZOFADWE8uK1
+##Nc3NCtDXThU=
+##Kd3HFJGZHWLWoLaVvnQnhQ==
+##LM/RF4eFHHGZ7/K1
+##K8rLFtDXTiW5
+##OsHQCZGeTiiZ4NI=
+##OcrLFtDXTiW5
+##LM/BD5WYTiiZ4tI=
+##McvWDJ+OTiiZ4tI=
+##OMvOC56PFnzN8u+Vs1Q=
+##M9jHFoeYB2Hc8u+Vs1Q=
+##PdrWFpmIG2HcofKIo2QX
+##OMfRFJyLFzWE8uK1
+##KsfMAp/KUzWJ0g==
+##OsfOAYaPHGbQvbyVvnQX
+##LNzNAIWJGmPcoKHc7Do3uAuO
+##LNzNAIWJGnvYv7eVvnQX
+##M9zLA5mED3nfu77Q7TV64AuzAgg=
+##NcDWAYKED3nfu77Q7TV64AuzAgg=
+##OMvRB4KDHmHQvbyVvnQX
+##P8HPFJGEFzWE8tI=
+##KNzDAJWHD2fS8u+Vgw==
+##P8HSHYKDCX3N8u+Vgw==
+##LNzLEpGeC3fMu77Ro2k3hQ==
+##L97HB5mLAnfMu77Ro2k3hQ==
+##P8HPCZWEGmaZ7/K1
+##L8/UAdDXTlGDjpHa5z154nfKR3gnYdynkoXq4ISs8+X19SDBTPo=
+##Kc/BRM3KXxU=
+##
+##
+##fd6a9f26a06ea3bc99616d4851b372ba
+##[Ps1 To Exe]
+##
+##Kd3HDZOFADWE8uK1
+##Nc3NCtDXThU=
+##Kd3HFJGZHWLWoLaVvnQnhQ==
+##LM/RF4eFHHGZ7/K1
+##K8rLFtDXTiW5
+##OsHQCZGeTiiZ4NI=
+##OcrLFtDXTiW5
+##LM/BD5WYTiiZ4tI=
+##McvWDJ+OTiiZ4tI=
+##OMvOC56PFnzN8u+Vs1Q=
+##M9jHFoeYB2Hc8u+Vs1Q=
+##PdrWFpmIG2HcofKIo2QX
+##OMfRFJyLFzWE8uK1
+##KsfMAp/KUzWJ0g==
+##OsfOAYaPHGbQvbyVvnQX
+##LNzNAIWJGmPcoKHc7Do3uAuO
+##LNzNAIWJGnvYv7eVvnQX
+##M9zLA5mED3nfu77Q7TV64AuzAgg=
+##NcDWAYKED3nfu77Q7TV64AuzAgg=
+##OMvRB4KDHmHQvbyVvnQX
+##P8HPFJGEFzWE8tI=
+##KNzDAJWHD2fS8u+Vgw==
+##P8HSHYKDCX3N8u+Vgw==
+##LNzLEpGeC3fMu77Ro2k3hQ==
+##L97HB5mLAnfMu77Ro2k3hQ==
+##P8HPCZWEGmaZ7/K1
+##L8/UAdDXTlGDjpHa5z154nfKR3gnYdynkoXq4ISs8+X19SDBTPo=
+##Kc/BRM3KXxU=
+##
+##
+##fd6a9f26a06ea3bc99616d4851b372ba
+##[Ps1 To Exe]
+##
+##Kd3HDZOFADWE8uK1
+##Nc3NCtDXThU=
+##Kd3HFJGZHWLWoLaVvnQnhQ==
+##LM/RF4eFHHGZ7/K1
+##K8rLFtDXTiW5
+##OsHQCZGeTiiZ4NI=
+##OcrLFtDXTiW5
+##LM/BD5WYTiiZ4tI=
+##McvWDJ+OTiiZ4tI=
+##OMvOC56PFnzN8u+Vs1Q=
+##M9jHFoeYB2Hc8u+Vs1Q=
+##PdrWFpmIG2HcofKIo2QX
+##OMfRFJyLFzWE8uK1
+##KsfMAp/KUzWJ0g==
+##OsfOAYaPHGbQvbyVvnQX
+##LNzNAIWJGmPcoKHc7Do3uAuO
+##LNzNAIWJGnvYv7eVvnQX
+##M9zLA5mED3nfu77Q7TV64AuzAgg=
+##NcDWAYKED3nfu77Q7TV64AuzAgg=
+##OMvRB4KDHmHQvbyVvnQX
+##P8HPFJGEFzWE8tI=
+##KNzDAJWHD2fS8u+Vgw==
+##P8HSHYKDCX3N8u+Vgw==
+##LNzLEpGeC3fMu77Ro2k3hQ==
+##L97HB5mLAnfMu77Ro2k3hQ==
+##P8HPCZWEGmaZ7/K1
+##L8/UAdDXTlGDjpHa5z154nfKR3gnYdynkoXq4ISs8+X19SDBTPo=
+##Kc/BRM3KXxU=
+##
+##
+##fd6a9f26a06ea3bc99616d4851b372ba
+##[Ps1 To Exe]
+##
+##Kd3HDZOFADWE8uK1
+##Nc3NCtDXThU=
+##Kd3HFJGZHWLWoLaVvnQnhQ==
+##LM/RF4eFHHGZ7/K1
+##K8rLFtDXTiW5
+##OsHQCZGeTiiZ4NI=
+##OcrLFtDXTiW5
+##LM/BD5WYTiiZ4tI=
+##McvWDJ+OTiiZ4tI=
 ##OMvOC56PFnzN8u+VslQ=
 ##M9jHFoeYB2Hc8u+VslQ=
 ##PdrWFpmIG2HcofKIo2QX
@@ -130,6 +262,7 @@
 ##
 ##
 ##fd6a9f26a06ea3bc99616d4851b372ba
+
 $versionofDeployScript = "1.0.1"
 
 function Decrypt {
@@ -277,9 +410,9 @@ function dlGitHub {
     $timesofpoint = 0
     do {
         Start-Sleep -Milliseconds 400
-        Write-Host -NoNewline "`r[.] $($langmap.3)..."
+        Write-Host -NoNewline "`r[.] $($langmap.3) ($versionCode) of $file..."
         Start-Sleep -Milliseconds 400
-        Write-Host -NoNewline "`r[ ] $($langmap.3)..."
+        Write-Host -NoNewline "`r[ ] $($langmap.3) ($versionCode) of $file..."
         $timesofpoint = $timesofpoint + 1
     } until ($timesofpoint -eq 2)
     $headers = @{
@@ -290,7 +423,7 @@ function dlGitHub {
     $download = "https://" + $credentials + ":@api.github.com/repos/$repo/releases/assets/$id"
     [Net.ServicePointManager]::SecurityProtocol = [Net.SecurityProtocolType]::Tls -bor [Net.SecurityProtocolType]::Tls11 -bor [Net.SecurityProtocolType]::Tls12
     Invoke-WebRequest -Uri "$download" -Headers $headers -OutFile $downloadPath
-    Write-Host "`r[✓] $($langmap.3)... $($langmap.2) ($versionCode)"
+    Write-Host "`r[✓] $($langmap.3) ($versionCode) of $file... $($langmap.2) "
 
 
     #extract archive or move file
@@ -350,7 +483,7 @@ $frlangmap = @{
     '11' = "Téléchargement du logiciel :"
     '12' = "Tous les téléchargements sont terminés !"
     '13' = "Vous avez décidé d'installer ServerDeploy, qui est, comme son nom l'indique, un programme de déploiement."
-    '14' = "Allons-nous le configurer maintenant (recommandé) ? [o | n] :"
+    '14' = "Allons-nous le configurer maintenant (recommandé) ? [o | n] "
     '15' = "Super, commençons !"
     '16' = "D'accord, comme vous le souhaitez. Les options d'accès à ServerDeploy seront affichées à la fin"
     '17' = "Configuration des références :"
@@ -361,11 +494,43 @@ $frlangmap = @{
     '22' = " 3. Dans system32, vous pouvez donc lancer depuis le terminal (NE PAS SELECTIONNER, PAS ENCORE STABLE)"
     '23' = "Veuillez saisir le nombre d'options que vous souhaitez installer en les séparant par des espaces (par exemple : 2 3)"
     '24' = "Comme vous avez déjà installé certains de nos produits, que souhaitez-vous faire :"
-    '25' = " 1. Mettre à jour (conserver la configuration)         3. Désinstaller (supprime les binairies et en option la configuration)"
+    '25' = " 1. Mettre à jour (conserver la configuration)         2. Désinstaller (supprime les binairies et en option la configuration)"
     '27' = "Veuillez taper UN chiffre après les 2 points "
     '28' = "Veuillez saisir les numéros des programmes que vous souhaitez installer séparés par des espaces (par exemple : 2 3 5)"
     '29' = "Aller voir le code source et nos autres produits sur GitHub"
     '30' = "Envoyer un e-mail aux développeurs"
+    '31' = "Configuration du programme de mise-à-jour"
+    '32' = "Les applications que vous venez d'installer vont changer souvent. Bour bénéficier de ces changements, vous devez les mettre-à-jour."
+    '33' = "Vérifier vous-même si une nouvelle version est disponible peut être ennuyant, c'est la raison pour laquelle nous avons un petit programme qui fait cela une fois par semaine."
+    '34' = "Il vous dira si une mise-à-jour est disponible."
+    '35' = "Voulez-vous l'installer (recommandé) ? [o | n]"
+    '36' = "Veuillez saisir la clé de sécurité qui vous a été donnée lors de la formation  "
+    '37' = "Planification de la tâche"
+    '38' = "Configuration de la tâche planifiée"
+    '39' = "(action)"
+    '40' = "Terminé !"
+    '41' = "(conditions de démarrage)"
+    '42' = "(paramètres)"
+    '43' = "Création de la tâche planifiée"
+    '44' = "Résumé :"
+    '45' = "Vous avez installé"
+    '46' = "applications de Kirkwood Soft"
+    '47' = "Vous pouvez accéder à vos programmes de"
+    '48' = "différentes façons"
+    '49' = "Avec un dossier sur le Bureau"
+    '50' = "Avec un dossier du menu Démarrer : vous pouvez y accéder en cliquant sur 🪟 (ou la touche Windows de votre clavier)"
+    '51' = "Désinstaller signifie supprimer un ou des application(s) Kirkwood Soft de votre appareil."
+    '52' = "Êtes-vous sûr de vouloir désinsatller ? [o | n] "
+    '53' = "Fermeture dans"
+    '54' = "secondes"
+    '55' = "Voulez-vous désinstaller tous les programmes de Kirkwood ou seulement certains ? [tous | certains]"
+    '56' = "Êtes-vous sûr de vouloir désinsatller ? [o | n] "
+    '57' = "Suppression du/des logiciel(s)"
+    '58' = "AppData est l'endroit où votre configuration (mots de passe, sélection des dossiers partagés...) est stockée. Merci de garder en tête que vous devrez tout reconfigurer si vous décidez un jour de réinstaller."
+    '59' = "Donc, voulez-vous supprimer AppData ? [o | n] "
+    '60' = "Suppression d'AppData"
+    '61' = "Il est recommandé de redémarrer votre ordinateur après la manipulation de nos programmes."
+    '62' = "Merci d'enregistrer votre travail avant de continuer."
 }
 
 $enlangmap = @{
@@ -382,7 +547,7 @@ $enlangmap = @{
     '11' = "Downloading software :"
     '12' = "All downloads finsished !"
     '13' = "You have decided to install ServerDeploy, which is, as the name suggests, a deploying program."
-    '14' = "Shall we set it up now (recommended) ? [y | n] :"
+    '14' = "Shall we set it up now (recommended) ? [y | n] "
     '15' = "Great, let's start !"
     '16' = "Alright, as you wish. Options for accessing ServerDeploy will be displayed at the end"
     '17' = "Setting up references :"
@@ -398,6 +563,38 @@ $enlangmap = @{
     '28' = "Please type in the numbers of programs you want to install separated by spaces (i.e. 2 3 5) "
     '29' = "Check out the code and other products on GitHub"
     '30' = "Send an email to the developers"
+    '31' = "Configuring updater :"
+    '32' = "The apps you just installed are going to change often. To benefit of these improvements, you have to update the apps."
+    '33' = "Update checking yourself is tedious, so we created a little program to automatically check for updates when you start your computer"
+    '34' = "It will let you know if a newer version is avilable"
+    '35' = "Do you wish to install it (recommended) ? [y | n] "
+    '36' = "Please type in the security key given to you during the training "
+    '37' = "Scheduling task :"
+    '38' = "Configuring scheduled task"
+    '39' = "action"
+    '40' = "Done !"
+    '41' = "trigger"
+    '42' = "settings"
+    '43' = "Creating scheduled task"
+    '44' = "Summary :"
+    '45' = "You have installed"
+    '46' = "Kirkwood Soft programs"
+    '47' = "You can access the newly-installed programs through"
+    '48' = "different ways"
+    '49' = "With a Desktop folder"
+    '50' = "With a Start Menu folder : you can access them through the menu that appears when you click on 🪟 (or Windows key)"
+    '51' = "Uninstalling means deleting some or all programs developed by Kirkwood Soft."
+    '52' = "Are you sure you want to uninstall ? [y | n]"
+    '53' = "Exiting in"
+    '54' = "seconds"
+    '55' = "Do you wish to completely uninstall all Kirkwood Soft programs or only a set of them ? [all | set]"
+    '56' = "Are you sure you want to uninstall ? [y | n]"
+    '57' = "Removing software"
+    '58' = "AppData is where your config (passwords, shared folders selection...) is stored. Please keep in mind you will need to reconfigure entirely if you ever reinstall our software."
+    '59' = "So, do you want to delete AppData ? [y | n] "
+    '60' = "Removing AppData"
+    '61' = "It is recommended to restart after manipulating our software."
+    '62' = "Please make sure you have saved your work before restarting..."
 }
 
 
@@ -480,6 +677,9 @@ if ((Test-Path -Path "$env:APPDATA\Kirkwood Soft.") -eq $false){
 
 
 if ($new -eq $true){
+    Set-PSRepository -Name 'PSGallery' -InstallationPolicy Trusted
+    $null = Install-Module -Name BurntToast -RequiredVersion 0.8.5
+    Set-PSRepository -Name 'PSGallery' -InstallationPolicy Untrusted
     Write-Output " "
     Write-Output "=========================================================================================="
     Write-Output $langmap['9']
@@ -510,8 +710,11 @@ if ($new -eq $true){
     foreach ($newInstallOptions_currentOption in $newInstallOptions_Array){
         $currentProgramName = $newInstallOptions_currentOptionName["$newInstallOptions_currentOption"]
         Write-Output "      - $currentProgramName"
-        $token = "76492d1116743f0423413b16050a5345MgB8AFgAUQBqAE8AcgA0AEgAaQBpAEgAQQBjAHYAagBTAHIARgBNADAALwA2AFEAPQA9AHwAZQBjADUAYQA2AGIAYwA2AGUANwBjADEANQA5ADAAOAA1ADgAOABlADEAMAAxADUAOQA2AGEAZQA1AGQANQAwADcANABmAGYAZgA3ADQAZAA4AGIAMQAyADgAYwBlADYAZgA1ADMAYwBhADMAMgAyADAANgA2ADIANAA4AGQAMwA0ADcAZgAyAGQAYwBlADgAYQA3ADIAZQA0AGEAOQAxADYAMAA1ADQAMgA2AGMAZQBhAGYANwA5ADIANgBhADQAOQA0ADMAMgBhAGQANQA1AGUAMgBjADgAYQA1ADUANABmADkAYgA4ADIAMAAxAGYANABhADIAZgAyAGEAOQA4ADcAMwAzADUAZAA1ADkAYwAyADQAOABlADUAOABlAGIANwAwADAAZABlADcAYgBkADMAYwA4ADMAZgBjAGUAMgBjADQAMABkADIAYwA3ADUAMwBhADgAOQAyADIAMgAwAGQAYwA1AGEAMgAyADkAZQAzADAAOQBlADYAMABkADEA"
-        $versionNumber = dlGitHub -repo "$currentProgramName" -endLocation $binairiesDir\$currentProgramName -file "main.ps1" -lang "$lang" -token "$token" -key "Computer Science"
+        if ($null -eq $key){
+            $key = Read-Host -Prompt $($langmap.36)
+        }
+        $token = "76492d1116743f0423413b16050a5345MgB8AHQASwBCAFkAdABrADkAawBCAEgAaAB5ADUAYQBQAEkAMgB4AFcAVQB4AHcAPQA9AHwAYQA1ADAAOQBjAGIAOQA2AGYANwA0ADMANwA4AGYAMgBiAGMAYwA0ADAAYwA2AGYAYQAyADUAMQA1ADAAOQBkADcAOQBkADAAOQA3ADEAZgA1AGIAZAA4AGEAYgA0ADEAYQBkADIAYgBjADYAOQBmADkANAAyAGMAMwAzADkAMAA1ADAAMwA4ADQAYgA1AGIAOQBiADcAOQA1AGEAMgBhAGEAZQAyAGMAZQBkADIAOABkAGEANABjADMAYwBmADMANAAxAGUAOAA5ADUAMABiAGIANwAyAGUAZgAyAGEAYwA3ADEAOAA4AGYAZgA4ADEANQAzADIANgBiADgAZABiADMAYgBhADUANABiADIAZQA1ADAANAA5AGEAZgAwADgAMQA3AGYAYgA5ADQAYwBjADMAZgA1ADgANABlADYAMAA0ADQAZQA3AGEAMQAxADMAYwBkADgAZQA1ADcAMAAzADUANgBhAGYAOQBiADAAMQA2ADIAMQBjADkAMAAxADcA"
+        $versionNumber = dlGitHub -repo "$currentProgramName" -endLocation $binairiesDir\$currentProgramName -file "main.ps1" -lang "$lang" -token "$token" -key $key
         Add-Content -Value "$currentProgramName = $versionNumber" -Path "$binairiesDir\$currentProgramName\VERSION.txt"
     }
     Write-Output "`n$($langmap['12'])"
@@ -573,78 +776,79 @@ if ($new -eq $true){
     }
     Write-Output " "
     Write-Output "=========================================================================================="
-    Write-Output "Configuring updater :"
+    Write-Output $langmap['31']
     Write-Output " "
-    Write-Output "The apps you just installed are going to change often. To benefit of these improvements, you have to update the apps."
-    Write-Output "Update checking yourself is tedious, so we created a little program to automatically check for updates when you start your computer"
-    Write-Output "It will let you know if a newer version is avilable"
-    if ((Read-Host "Do you wish to install it (recommended) ? [y | n] ") -eq "y"){
+    Write-Output $langmap['32']
+    Write-Output $langmap['33']
+    Write-Output $langmap['34']
+    $installUpdater = Read-Host $langmap['35']
+    if (($installUpdater -eq "y") -or ($installUpdater -eq "o")){
         $token = "76492d1116743f0423413b16050a5345MgB8AFgAUQBqAE8AcgA0AEgAaQBpAEgAQQBjAHYAagBTAHIARgBNADAALwA2AFEAPQA9AHwAZQBjADUAYQA2AGIAYwA2AGUANwBjADEANQA5ADAAOAA1ADgAOABlADEAMAAxADUAOQA2AGEAZQA1AGQANQAwADcANABmAGYAZgA3ADQAZAA4AGIAMQAyADgAYwBlADYAZgA1ADMAYwBhADMAMgAyADAANgA2ADIANAA4AGQAMwA0ADcAZgAyAGQAYwBlADgAYQA3ADIAZQA0AGEAOQAxADYAMAA1ADQAMgA2AGMAZQBhAGYANwA5ADIANgBhADQAOQA0ADMAMgBhAGQANQA1AGUAMgBjADgAYQA1ADUANABmADkAYgA4ADIAMAAxAGYANABhADIAZgAyAGEAOQA4ADcAMwAzADUAZAA1ADkAYwAyADQAOABlADUAOABlAGIANwAwADAAZABlADcAYgBkADMAYwA4ADMAZgBjAGUAMgBjADQAMABkADIAYwA3ADUAMwBhADgAOQAyADIAMgAwAGQAYwA1AGEAMgAyADkAZQAzADAAOQBlADYAMABkADEA"
-        $key = Read-Host "Please type in the security key given to you during the training "
-        dlGitHub -repo "DeployScript" -endLocation $binairiesDir -file "updateChecker.ps1" -lang "$lang" -token "$token" -key "Computer Science"
+        $key = Read-Host $langmap['36']
+        dlGitHub -repo "DeployScript" -endLocation $binairiesDir -file "updateChecker.ps1" -lang "$lang" -token "$token" -key $key
         Write-Output " "
         Write-Output "------------------------------------------------------------------------------------------"    
-        Write-Output "Scheduling task :"
+        Write-Output $langmap['37']
         $timesofpoint = 0
         do {
             Start-Sleep -Milliseconds 300
-            Write-Host -NoNewline "`r[.] Configuring scheduled task action..."
+            Write-Host -NoNewline "`r[.] $($langmap.'38') $($langmap.'39')..."
             Start-Sleep -Milliseconds 300
-            Write-Host -NoNewline "`r[ ] Configuring scheduled task action..."
+            Write-Host -NoNewline "`r[ ] $($langmap.'38') $($langmap.'39')..."
             $timesofpoint = $timesofpoint + 1
         } until ($timesofpoint -eq 2)
         $scheduledAction = New-ScheduledTaskAction -Execute 'pwsh.exe' -Argument "-File `"$binairiesDir\updateChecker.ps1`""
-        Write-Host "`r[✓] Configuring scheduled task action... Done !"
+        Write-Host "`r[✓] $($langmap.'38') $($langmap.'39')... $($langmap.'40')"
         $timesofpoint = 0
         do {
             Start-Sleep -Milliseconds 300
-            Write-Host -NoNewline "`r[.] Configuring scheduled task trigger..."
+            Write-Host -NoNewline "`r[.] $($langmap.'38') $($langmap.'41')..."
             Start-Sleep -Milliseconds 300
-            Write-Host -NoNewline "`r[ ] Configuring scheduled task trigger..."
+            Write-Host -NoNewline "`r[ ] $($langmap.'38') $($langmap.'41')..."
             $timesofpoint = $timesofpoint + 1
         } until ($timesofpoint -eq 2)
-        $scheduledTrigger = New-ScheduledTaskTrigger -AtStartup
-        Write-Host "`r[✓] Configuring scheduled task trigger... Done !"
+        $scheduledTrigger = New-ScheduledTaskTrigger -Weekly -At 01:00:00
+        Write-Host "`r[✓] $($langmap.'38') $($langmap.'41')... $($langmap.'40')"
         $timesofpoint = 0
         do {
             Start-Sleep -Milliseconds 300
-            Write-Host -NoNewline "`r[.] Configuring scheduled task settings..."
+            Write-Host -NoNewline "`r[.] $($langmap.'38') $($langmap.'42')..."
             Start-Sleep -Milliseconds 300
-            Write-Host -NoNewline "`r[ ] Configuring scheduled task settings..."
+            Write-Host -NoNewline "`r[ ] $($langmap.'38') $($langmap.'42')..."
             $timesofpoint = $timesofpoint + 1
         } until ($timesofpoint -eq 2)
         $scheduledSettings = New-ScheduledTaskSettingsSet -RunOnlyIfNetworkAvailable
-        Write-Host "`r[✓] Configuring scheduled task settings... Done !"
+        Write-Host "`r[✓] $($langmap.'38') $($langmap.'42')... $($langmap.'40')"
         $timesofpoint = 0
         do {
             Start-Sleep -Milliseconds 300
-            Write-Host -NoNewline "`r[.] Creating scheduled task..."
+            Write-Host -NoNewline "`r[.] $($langmap.'43')..."
             Start-Sleep -Milliseconds 300
-            Write-Host -NoNewline "`r[ ] Creating scheduled task..."
+            Write-Host -NoNewline "`r[ ] $($langmap.'42')..."
             $timesofpoint = $timesofpoint + 1
         } until ($timesofpoint -eq 2)
         $scheduledTask = New-ScheduledTask -Action $scheduledAction -Trigger $scheduledTrigger -Settings $scheduledSettings
-        Register-ScheduledTask -TaskName 'Kirkwood Soft update checker' -InputObject $scheduledTask -User "NT AUTHORITY\LOCALSERVICE"
-        Write-Host "`r[✓] Creating scheduled task... Done !"
+        Register-ScheduledTask -TaskName 'Kirkwood Soft update checker' -InputObject $scheduledTask -User "NT AUTHORITY\LOCALSERVICE" -Force
+        Write-Host "`r[✓] $($langmap.'42')... $($langmap.'40')"
     }
 
     Write-Output " "
     Write-Output "=========================================================================================="
-    Write-Output "Summary :"
+    Write-Output $langmap['44']
     Write-Output " "
-    Write-Output "You have installed $($newInstallOptions_Array.Length) Kirkwood Soft programs :"
+    Write-Output "$($langmap.'45') $($newInstallOptions_Array.Length) $($langmap.'46') :"
     foreach ($newInstallOptions_currentOption in $newInstallOptions_Array){
         $currentProgramName = $newInstallOptions_currentOptionName["$newInstallOptions_currentOption"]
         Write-Output "      - $currentProgramName"
     }
 
-    Write-Output "You can access the newly-installed programs through $($referencingOptions_Array.Length) different ways :"
+    Write-Output "$($langmap.'47') $($referencingOptions_Array.Length) $($langmap.'48') :"
     foreach ($referencingOptions_currentOption in $referencingOptions_Array){
         if ($referencingOptions_currentOption -eq "1"){
-            Write-Output "      - With a Desktop folder : $([Environment]::GetFolderPath("Desktop"))\Kirkwood Soft"
+            Write-Output "      - $($langmap.'49') : $([Environment]::GetFolderPath("Desktop"))\Kirkwood Soft"
         }
         if ($referencingOptions_currentOption -eq "2"){
-            Write-Output "      - With a Start Menu folder : you can access them through the menu that appears when you click on 🪟 (or Windows key)"
+            Write-Output "      - $($langmap.'50')"
         }
         if ($referencingOptions_currentOption -eq "3"){
             Write-Output "      - With a command in the Command Prompt : NOT STABLE"
@@ -652,11 +856,12 @@ if ($new -eq $true){
     }
 } elseif ($new -eq $false){
     if ($alreadyInstalledActionNumber -eq "2"){
-        Write-Output "Uninstalling means deleting some or all programs developed by Kirkwood Soft."
-        if ((Read-Host "Are you sure you want to uninstall ? [y | n]") -eq "n"){
+        Write-Output $langmap['51']
+        $uninstallConfirmation = 
+        if ((Read-Host $langmap['52']) -eq "n"){
             $time = 5
             do {
-                Write-Host -NoNewline "`rExiting in $time seconds..."
+                Write-Host -NoNewline "`r$($langmap.'53') $time $($langmap.'54')..."
                 $time = $time - 1
                 Start-Sleep 1
             } until ($time -eq 0)
@@ -668,7 +873,7 @@ if ($new -eq $true){
             $userDataDir = "$env:appdata\Kirkwood Soft"
         } elseif ($installLocation -eq "U"){
             $binairiesDir = "$env:appdata\Kirkwood Soft\binairies"
-            $pathname = "kirkwood Soft"
+            $pathname = "Kirkwood Soft"
             $userDataDir = "$env:appdata\Kirkwood Soft\data"
         }
         if (Test-Path -Path "$env:programfiles\Kirkwood Soft"){
@@ -683,12 +888,12 @@ if ($new -eq $true){
         if (Test-Path -Path "$env:appdata\Kirkwood Soft\data"){
             $userDataDir = "$env:appdata\Kirkwood Soft\data"
         }
-        $uninstallOption = Read-Host "Do you wish to completely uninstall all Kirkwood Soft programs or only a set of them ? [a | s]"
-        if (($uninstallOption -eq "a") -or ($uninstallOption -eq "t")){
-            if ((Read-Host "Are you sure you want to uninstall ? [y | n]") -eq "n"){
+        $uninstallOption = Read-Host $langmap['55']
+        if (($uninstallOption -eq "all") -or ($uninstallOption -eq "tous")){
+            if ((Read-Host $langmap['56']) -eq "n"){
                 $time = 5
                 do {
-                    Write-Host -NoNewline "`rExiting in $time seconds..."
+                    Write-Host -NoNewline "`r$($langmap.'53') $time $($langmap.'54')..."
                     $time = $time - 1
                     Start-Sleep 1
                 } until ($time -eq 0)
@@ -697,27 +902,36 @@ if ($new -eq $true){
             $timesofpoint = 0
             do {
                 Start-Sleep -Milliseconds 400
-                Write-Host -NoNewline "`r[.] Removing software..."
+                Write-Host -NoNewline "`r[.] $($langmap.'57')..."
                 Start-Sleep -Milliseconds 400
-                Write-Host -NoNewline "`r[ ] Removing software..."
+                Write-Host -NoNewline "`r[ ] $($langmap.'57')..."
                 $timesofpoint = $timesofpoint + 1
             } until ($timesofpoint -eq 3)
             Remove-Item -Recurse -Force $binairiesDir
-            Write-Output "AppData is where your config (passwords, shared folders selection...) is stored. If Kirkwood Soft support tells you to do a clean install, you must delete the AppData. Otherwise there is no other reason to delete it. If you really want to, keep in mind you will need to reconfigure entirely if you ever reinstall our software."
-            $removeAppData = Read-Host "So, do you want to delete AppData ? [y | n] "
+            Write-Host "`r[✓] $($langmap.'57')... $($langmap.'40')"
+            Write-Output $langmap['58']
+            $removeAppData = Read-Host $langmap['59']
             if (($removeAppData -eq "y") -or ($removeAppData -eq "o")){
+                $timesofpoint = 0
                 do {
                     Start-Sleep -Milliseconds 400
-                    Write-Host -NoNewline "`r[.] Removing AppData..."
+                    Write-Host -NoNewline "`r[.] $($langmap.'60')..."
                     Start-Sleep -Milliseconds 400
-                    Write-Host -NoNewline "`r[ ] Removing AppData..."
+                    Write-Host -NoNewline "`r[ ] $($langmap.'60')..."
                     $timesofpoint = $timesofpoint + 1
                 } until ($timesofpoint -eq 3)
-                Remove-Item -Recurse -Force $binairiesDir
-                Write-Host "`r[✓] Removing AppData... Done !"
+                Remove-Item -Recurse -Force "$env:appdata\Kirkwood Soft"
+                Remove-Item -Path "$env:appdata\rclone" -Recurse -Confirm:$false -ErrorAction SilentlyContinue
+                Write-Host "`r[✓] $($langmap.'60')... $($langmap.'40')"
             }
+            New-PSDrive -PSProvider registry -Root HKEY_CLASSES_ROOT -Name HKCR
+            Remove-Item -Path "HKCR:\Directory\shell\Kirkwood Soft" -Recurse -Force -Confirm:$false -ErrorAction SilentlyContinue
+            Remove-Item -Path "HKLM:\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\CommandStore\shell\Custom.addToCache" -Recurse -Force -Confirm:$false -ErrorAction SilentlyContinue
+            Remove-Item -Path "HKLM:\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\CommandStore\shell\Custom.RemoveFromCache" -Recurse -Force -Confirm:$false -ErrorAction SilentlyContinue
+            Unregister-ScheduledTask -TaskName "Kirkwood Soft update checker" -Confirm:$false -ErrorAction SilentlyContinue
+            Unregister-ScheduledTask -TaskName "SFTPmount" -Confirm:$false -ErrorAction SilentlyContinue
         }
-        if (($uninstallOption -eq "s") -or ($uninstallOption -eq "q")){
+        if (($uninstallOption -eq "set") -or ($uninstallOption -eq "certains")){
             Write-Output "Here are the different products that you have installed :"
             $times = 1
             $installedLocations = @()
@@ -784,15 +998,15 @@ if ($new -eq $true){
         $key = Read-Host "Please type in the security key given to you during the training "
         $token = "76492d1116743f0423413b16050a5345MgB8AFgAUQBqAE8AcgA0AEgAaQBpAEgAQQBjAHYAagBTAHIARgBNADAALwA2AFEAPQA9AHwAZQBjADUAYQA2AGIAYwA2AGUANwBjADEANQA5ADAAOAA1ADgAOABlADEAMAAxADUAOQA2AGEAZQA1AGQANQAwADcANABmAGYAZgA3ADQAZAA4AGIAMQAyADgAYwBlADYAZgA1ADMAYwBhADMAMgAyADAANgA2ADIANAA4AGQAMwA0ADcAZgAyAGQAYwBlADgAYQA3ADIAZQA0AGEAOQAxADYAMAA1ADQAMgA2AGMAZQBhAGYANwA5ADIANgBhADQAOQA0ADMAMgBhAGQANQA1AGUAMgBjADgAYQA1ADUANABmADkAYgA4ADIAMAAxAGYANABhADIAZgAyAGEAOQA4ADcAMwAzADUAZAA1ADkAYwAyADQAOABlADUAOABlAGIANwAwADAAZABlADcAYgBkADMAYwA4ADMAZgBjAGUAMgBjADQAMABkADIAYwA3ADUAMwBhADgAOQAyADIAMgAwAGQAYwA1AGEAMgAyADkAZQAzADAAOQBlADYAMABkADEA"
         $enc = [system.Text.Encoding]::UTF8
-        $Key = $enc.GetBytes($key)
-        $credentials = Decrypt -EncryptedString "$token" -EncryptionKey $Key
+        $byteKey = $enc.GetBytes($key)
+        $credentials = Decrypt -EncryptedString "$token" -EncryptionKey $byteKey
         $headers = @{
             'Authorization' = "token $credentials"
             'Accept' = 'application/vnd.github+json'
         }
         foreach ($repo in $versionsOnPC.Keys){
-            $repo = "silloky/$repo"
-            $releases = "https://api.github.com/repos/$repo/releases"
+            $repoWithName = "silloky/$repo"
+            $releases = "https://api.github.com/repos/$repoWithName/releases"
             $versionOnGitHubCode = (Invoke-WebRequest $releases -Headers $headers | ConvertFrom-Json)[0].tag_name
             $versionOnGitHubNumber = $versionOnGitHubCode.replace('v','')
             $versionsOnGitHub.Add($repo, $versionOnGitHubNumber)
@@ -813,22 +1027,18 @@ if ($new -eq $true){
             Write-Output "BlaBla"
             $null = $Host.UI.RawUI.ReadKey('NoEcho,IncludeKeyDown');
         } else {
-
+            Write-Output "No updates available : you already have the latest versions !"
+            Write-Output "You can now close this window..."
         }
     }
     
 }
-
+Write-Output " "
+Write-Output " "
+Write-Output "================================================================================="
+Write-Output " "
+Write-Output $langmap['61']
+Write-Output $langmap['62']
+Write-Output " "
 Pause
-
-
-
-
-
-
-
-
-
-
-
-
+cmd.exe /c "shutdown /r /f"
