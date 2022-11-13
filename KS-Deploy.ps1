@@ -1,5 +1,269 @@
 ﻿##[Ps1 To Exe]
 ##
+##Kd3HDZOFADWE8uO1
+##Nc3NCtDXTlGDjpHa5z154nfKR3gnYdyntbmgy8+1/OWM
+##Kd3HFJGZHWLWoLaVvnQnhQ==
+##LM/RF4eFHHGZ7/K1
+##K8rLFtDXTiW5
+##OsHQCZGeTiiZ4NI=
+##OcrLFtDXTiW5
+##LM/BD5WYTiiZ4tI=
+##McvWDJ+OTiiZ4tI=
+##OMvOC56PFnzN8u+Vs1Q=
+##M9jHFoeYB2Hc8u+Vs1Q=
+##PdrWFpmIG2HcofKIo2QX
+##OMfRFJyLFzWE8uK1
+##KsfMAp/KUzWJ0g==
+##OsfOAYaPHGbQvbyVvnQX
+##LNzNAIWJGmPcoKHc7Do3uAuO
+##LNzNAIWJGnvYv7eVvnQX
+##M9zLA5mED3nfu77Q7TV64AuzAgg=
+##NcDWAYKED3nfu77Q7TV64AuzAgg=
+##OMvRB4KDHmHQvbyVvnQX
+##P8HPFJGEFzWE8tI=
+##KNzDAJWHD2fS8u+Vgw==
+##P8HSHYKDCX3N8u+Vgw==
+##LNzLEpGeC3fMu77Ro2k3hQ==
+##L97HB5mLAnfMu77Ro2k3hQ==
+##P8HPCZWEGmaZ7/K1
+##L8/UAdDXTlGDjpHa5z154nfKR3gnYdynkoXq4ISs8+X19SDBTPo=
+##Kc/BRM3KXxU=
+##
+##
+##fd6a9f26a06ea3bc99616d4851b372ba
+##[Ps1 To Exe]
+##
+##Kd3HDZOFADWE8uO1
+##Nc3NCtDXTlGDjpHa5z154nfKR3gnYdyntbmgy8+1/OWM
+##Kd3HFJGZHWLWoLaVvnQmhQ==
+##LM/RF4eFHHGZ7/L94jJ75FmudmAuYMCXuKS0pA==
+##K8rLFtDXTiW5
+##OsHQCZGeTiiZ4NI=
+##OcrLFtDXTiW5
+##LM/BD5WYTiiZ4tI=
+##McvWDJ+OTiiZ4tI=
+##OMvOC56PFnzN8u+Vs1Q=
+##M9jHFoeYB2Hc8u+Vs1Q=
+##PdrWFpmIG2HcofKIo2QX
+##OMfRFJyLFzWE8uK1
+##KsfMAp/KUzWJ0g==
+##OsfOAYaPHGbQvbyVvnQX
+##LNzNAIWJGmPcoKHc7Do3uAuO
+##LNzNAIWJGnvYv7eVvnQX
+##M9zLA5mED3nfu77Q7TV64AuzAgg=
+##NcDWAYKED3nfu77Q7TV64AuzAgg=
+##OMvRB4KDHmHQvbyVvnQX
+##P8HPFJGEFzWE8tI=
+##KNzDAJWHD2fS8u+Vgw==
+##P8HSHYKDCX3N8u+Vgw==
+##LNzLEpGeC3fMu77Ro2k3hQ==
+##L97HB5mLAnfMu77Ro2k3hQ==
+##P8HPCZWEGmaZ7/K1
+##L8/UAdDXTlGDjpHa5z154nfKR3gnYdynkoXq4ISs8+X19SDBTPo=
+##Kc/BRM3KXxU=
+##
+##
+##fd6a9f26a06ea3bc99616d4851b372ba
+##[Ps1 To Exe]
+##
+##Kd3HDZOFADWE8uO1
+##Nc3NCtDXTlGDjpHa5z154nfKR3gnYdyntbmgy8+1/OWM
+##Kd3HFJGZHWLWoLaVvnQmhQ==
+##LM/RF4eFHHGZ7/L94jJ75FmudmAuYMCXuKS0pA==
+##K8rLFtDXTiW5
+##OsHQCZGeTiiZ4NI=
+##OcrLFtDXTiW5
+##LM/BD5WYTiiZ4tI=
+##McvWDJ+OTiiZ4tI=
+##OMvOC56PFnzN8u+Vs1Q=
+##M9jHFoeYB2Hc8u+Vs1Q=
+##PdrWFpmIG2HcofKIo2QX
+##OMfRFJyLFzWE8uK1
+##KsfMAp/KUzWJ0g==
+##OsfOAYaPHGbQvbyVvnQX
+##LNzNAIWJGmPcoKHc7Do3uAuO
+##LNzNAIWJGnvYv7eVvnQX
+##M9zLA5mED3nfu77Q7TV64AuzAgg=
+##NcDWAYKED3nfu77Q7TV64AuzAgg=
+##OMvRB4KDHmHQvbyVvnQX
+##P8HPFJGEFzWE8tI=
+##KNzDAJWHD2fS8u+Vgw==
+##P8HSHYKDCX3N8u+Vgw==
+##LNzLEpGeC3fMu77Ro2k3hQ==
+##L97HB5mLAnfMu77Ro2k3hQ==
+##P8HPCZWEGmaZ7/K1
+##L8/UAdDXTlGDjpHa5z154nfKR3gnYdynkoXq4ISs8+X19SDBTPo=
+##Kc/BRM3KXxU=
+##
+##
+##fd6a9f26a06ea3bc99616d4851b372ba
+##[Ps1 To Exe]
+##
+##Kd3HDZOFADWE8uO1
+##Nc3NCtDXTlGDjpHa5z154nfKR3gnYdyntbmgy8+1/OWM
+##Kd3HFJGZHWLWoLaVvnQmhQ==
+##LM/RF4eFHHGZ7/L94jJ75FmudmAuYMCXsKXH
+##K8rLFtDXTiW5
+##OsHQCZGeTiiZ4NI=
+##OcrLFtDXTiW5
+##LM/BD5WYTiiZ4tI=
+##McvWDJ+OTiiZ4tI=
+##OMvOC56PFnzN8u+Vs1Q=
+##M9jHFoeYB2Hc8u+Vs1Q=
+##PdrWFpmIG2HcofKIo2QX
+##OMfRFJyLFzWE8uK1
+##KsfMAp/KUzWJ0g==
+##OsfOAYaPHGbQvbyVvnQX
+##LNzNAIWJGmPcoKHc7Do3uAuO
+##LNzNAIWJGnvYv7eVvnQX
+##M9zLA5mED3nfu77Q7TV64AuzAgg=
+##NcDWAYKED3nfu77Q7TV64AuzAgg=
+##OMvRB4KDHmHQvbyVvnQX
+##P8HPFJGEFzWE8tI=
+##KNzDAJWHD2fS8u+Vgw==
+##P8HSHYKDCX3N8u+Vgw==
+##LNzLEpGeC3fMu77Ro2k3hQ==
+##L97HB5mLAnfMu77Ro2k3hQ==
+##P8HPCZWEGmaZ7/K1
+##L8/UAdDXTlGDjpHa5z154nfKR3gnYdynkoXq4ISs8+X19SDBTPo=
+##Kc/BRM3KXxU=
+##
+##
+##fd6a9f26a06ea3bc99616d4851b372ba
+##[Ps1 To Exe]
+##
+##Kd3HDZOFADWE8uO1
+##Nc3NCtDXTlGDjpHa5z154nfKR3gnYdyntbmgy8+1/OWM
+##Kd3HFJGZHWLWoLaVvnQmhQ==
+##LM/RF4eFHHGZ7/L94jJ75FmudmAuYMCXsKXH
+##K8rLFtDXTiW5
+##OsHQCZGeTiiZ4NI=
+##OcrLFtDXTiW5
+##LM/BD5WYTiiZ4tI=
+##McvWDJ+OTiiZ4tI=
+##OMvOC56PFnzN8u+Vs1Q=
+##M9jHFoeYB2Hc8u+Vs1Q=
+##PdrWFpmIG2HcofKIo2QX
+##OMfRFJyLFzWE8uK1
+##KsfMAp/KUzWJ0g==
+##OsfOAYaPHGbQvbyVvnQX
+##LNzNAIWJGmPcoKHc7Do3uAuO
+##LNzNAIWJGnvYv7eVvnQX
+##M9zLA5mED3nfu77Q7TV64AuzAgg=
+##NcDWAYKED3nfu77Q7TV64AuzAgg=
+##OMvRB4KDHmHQvbyVvnQX
+##P8HPFJGEFzWE8tI=
+##KNzDAJWHD2fS8u+Vgw==
+##P8HSHYKDCX3N8u+Vgw==
+##LNzLEpGeC3fMu77Ro2k3hQ==
+##L97HB5mLAnfMu77Ro2k3hQ==
+##P8HPCZWEGmaZ7/K1
+##L8/UAdDXTlGDjpHa5z154nfKR3gnYdynkoXq4ISs8+X19SDBTPo=
+##Kc/BRM3KXxU=
+##
+##
+##fd6a9f26a06ea3bc99616d4851b372ba
+##[Ps1 To Exe]
+##
+##Kd3HDZOFADWE8uO1
+##Nc3NCtDXTlGDjpHa5z154nfKR3gnYdyntbmgy8+1/OWM
+##Kd3HFJGZHWLWoLaVvnQmhQ==
+##LM/RF4eFHHGZ7/L94jJ75FmudmAuYMCXsKXH
+##K8rLFtDXTiW5
+##OsHQCZGeTiiZ4NI=
+##OcrLFtDXTiW5
+##LM/BD5WYTiiZ4tI=
+##McvWDJ+OTiiZ4tI=
+##OMvOC56PFnzN8u+Vs1Q=
+##M9jHFoeYB2Hc8u+Vs1Q=
+##PdrWFpmIG2HcofKIo2QX
+##OMfRFJyLFzWE8uK1
+##KsfMAp/KUzWJ0g==
+##OsfOAYaPHGbQvbyVvnQX
+##LNzNAIWJGmPcoKHc7Do3uAuO
+##LNzNAIWJGnvYv7eVvnQX
+##M9zLA5mED3nfu77Q7TV64AuzAgg=
+##NcDWAYKED3nfu77Q7TV64AuzAgg=
+##OMvRB4KDHmHQvbyVvnQX
+##P8HPFJGEFzWE8tI=
+##KNzDAJWHD2fS8u+Vgw==
+##P8HSHYKDCX3N8u+Vgw==
+##LNzLEpGeC3fMu77Ro2k3hQ==
+##L97HB5mLAnfMu77Ro2k3hQ==
+##P8HPCZWEGmaZ7/K1
+##L8/UAdDXTlGDjpHa5z154nfKR3gnYdynkoXq4ISs8+X19SDBTPo=
+##Kc/BRM3KXxU=
+##
+##
+##fd6a9f26a06ea3bc99616d4851b372ba
+##[Ps1 To Exe]
+##
+##Kd3HDZOFADWE8uO1
+##Nc3NCtDXTlGDjpHa5z154nfKR3gnYdyntbmgy8+1/OWM
+##Kd3HFJGZHWLWoLaVvnQnhQ==
+##LM/RF4eFHHGZ7/K1
+##K8rLFtDXTiW5
+##OsHQCZGeTiiZ4NI=
+##OcrLFtDXTiW5
+##LM/BD5WYTiiZ4tI=
+##McvWDJ+OTiiZ4tI=
+##OMvOC56PFnzN8u+Vs1Q=
+##M9jHFoeYB2Hc8u+Vs1Q=
+##PdrWFpmIG2HcofKIo2QX
+##OMfRFJyLFzWE8uK1
+##KsfMAp/KUzWJ0g==
+##OsfOAYaPHGbQvbyVvnQX
+##LNzNAIWJGmPcoKHc7Do3uAuO
+##LNzNAIWJGnvYv7eVvnQX
+##M9zLA5mED3nfu77Q7TV64AuzAgg=
+##NcDWAYKED3nfu77Q7TV64AuzAgg=
+##OMvRB4KDHmHQvbyVvnQX
+##P8HPFJGEFzWE8tI=
+##KNzDAJWHD2fS8u+Vgw==
+##P8HSHYKDCX3N8u+Vgw==
+##LNzLEpGeC3fMu77Ro2k3hQ==
+##L97HB5mLAnfMu77Ro2k3hQ==
+##P8HPCZWEGmaZ7/K1
+##L8/UAdDXTlGDjpHa5z154nfKR3gnYdynkoXq4ISs8+X19SDBTPo=
+##Kc/BRM3KXxU=
+##
+##
+##fd6a9f26a06ea3bc99616d4851b372ba
+##[Ps1 To Exe]
+##
+##Kd3HDZOFADWE8uO1
+##Nc3NCtDXTlGDjpHa5z154nfKR3gnYdyntbmgy8+1/OWM
+##Kd3HFJGZHWLWoLaVvnQmhQ==
+##LM/RF4eFHHGZ7/L94jJ75FmudmAuYMCXsKXH
+##K8rLFtDXTiW5
+##OsHQCZGeTiiZ4NI=
+##OcrLFtDXTiW5
+##LM/BD5WYTiiZ4tI=
+##McvWDJ+OTiiZ4tI=
+##OMvOC56PFnzN8u+Vs1Q=
+##M9jHFoeYB2Hc8u+Vs1Q=
+##PdrWFpmIG2HcofKIo2QX
+##OMfRFJyLFzWE8uK1
+##KsfMAp/KUzWJ0g==
+##OsfOAYaPHGbQvbyVvnQX
+##LNzNAIWJGmPcoKHc7Do3uAuO
+##LNzNAIWJGnvYv7eVvnQX
+##M9zLA5mED3nfu77Q7TV64AuzAgg=
+##NcDWAYKED3nfu77Q7TV64AuzAgg=
+##OMvRB4KDHmHQvbyVvnQX
+##P8HPFJGEFzWE8tI=
+##KNzDAJWHD2fS8u+Vgw==
+##P8HSHYKDCX3N8u+Vgw==
+##LNzLEpGeC3fMu77Ro2k3hQ==
+##L97HB5mLAnfMu77Ro2k3hQ==
+##P8HPCZWEGmaZ7/K1
+##L8/UAdDXTlGDjpHa5z154nfKR3gnYdynkoXq4ISs8+X19SDBTPo=
+##Kc/BRM3KXxU=
+##
+##
+##fd6a9f26a06ea3bc99616d4851b372ba
+##[Ps1 To Exe]
+##
 ##Kd3HDZOFADWE8uK1
 ##Nc3NCtDXThU=
 ##Kd3HFJGZHWLWoLaVvnQnhQ==
@@ -320,9 +584,9 @@ function creatingLoading {
     $timesofpoint = 0
     do {
         Start-Sleep -Milliseconds 400
-        Write-Host -NoNewline "`r[.] $($langmap.1) $createType : $createpath ..."
+        Write-Host -NoNewline "`r[.] $($langmap.1) $($langmap["$createType"]) : $createpath ..."
         Start-Sleep -Milliseconds 400
-        Write-Host -NoNewline "`r[ ] $($langmap.1) $createType : $createpath..."
+        Write-Host -NoNewline "`r[ ] $($langmap.1) $($langmap["$createType"]) : $createpath..."
         $timesofpoint = $timesofpoint + 1
     } until ($timesofpoint -eq 2)
 
@@ -366,6 +630,7 @@ function dlGitHub {
         3 = "Downloading latest release"
         4 = "Extracting archive (zip)"
         5 = "Cleaning up"
+        6 = "of"
     }
 
     $frlangmap = @{
@@ -374,6 +639,7 @@ function dlGitHub {
         3 = "Téléchargement de la dernière version"
         4 = "Extraction de l'archive (zip)"
         5 = "Nettoyage"
+        6 = "de"
     }
     
     if ($lang -eq "FR"){
@@ -384,8 +650,8 @@ function dlGitHub {
 
     #variable setup
     $enc = [system.Text.Encoding]::UTF8
-    [byte[]]$Key = $enc.GetBytes($key)
-    $credentials = Decrypt -EncryptedString "$token" -EncryptionKey $Key
+    [byte[]]$byteKey = $enc.GetBytes($key)
+    $credentials = Decrypt -EncryptedString "$token" -EncryptionKey $byteKey
     $repo = "silloky/$repo"
     $headers = @{
         'Authorization' = "token $credentials"
@@ -410,9 +676,9 @@ function dlGitHub {
     $timesofpoint = 0
     do {
         Start-Sleep -Milliseconds 400
-        Write-Host -NoNewline "`r[.] $($langmap.3) ($versionCode) of $file..."
+        Write-Host -NoNewline "`r[.] $($langmap.3) ($versionCode) $($langmap.6) $file..."
         Start-Sleep -Milliseconds 400
-        Write-Host -NoNewline "`r[ ] $($langmap.3) ($versionCode) of $file..."
+        Write-Host -NoNewline "`r[ ] $($langmap.3) ($versionCode) $($langmap.6) $file..."
         $timesofpoint = $timesofpoint + 1
     } until ($timesofpoint -eq 2)
     $headers = @{
@@ -449,16 +715,14 @@ function dlGitHub {
         Start-Sleep -Milliseconds 400
         Write-Host -NoNewline "`r[.] $($langmap.5)..."
         Start-Sleep -Milliseconds 400
-        Write-Host -NoNewline "`r[ ] $($langmap.6)..."
+        Write-Host -NoNewline "`r[ ] $($langmap.5)..."
         $timesofpoint = $timesofpoint + 1
     } until ($timesofpoint -eq 2)
     Remove-Item "$downloadPath" -Force
-    Write-Host "`r[✓] $($langmap.6)... $($langmap.2)"
+    Write-Host "`r[✓] $($langmap.5)... $($langmap.2)"
 
     #format version number
     $versionNumber = $versionCode.replace('v','')
-
-    $versionNumber
 }
 
 $newInstallOptions_currentOptionName = @{
@@ -476,7 +740,7 @@ $frlangmap = @{
     '4' = "Génial ! Maintenant une dernière question : où voulez-vous installer les programmes ?"
     '5' = " - À l'échelle du système (tout utilisateur peut y accéder, installés dans le répertoire des fichiers du programme)"
     '6' = " - Limité par l'utilisateur (vous seul avez accès aux programmes, installés dans le répertoire AppData)"
-    '7' = "Alors ? Où ? [S | U]"
+    '7' = "Alors ? Où ? [système | utilisateur]"
     '8' = "L'installation va maintenant commencer..."
     '9' = "Création des répertoires principaux :"
     '10' = "Création des répertoires de logiciels :"
@@ -540,7 +804,7 @@ $enlangmap = @{
     '4' = "Great ! Now one last question : where do you want to install the programs ?"
     '5' = "  - System-wide (any user can access, installed in the program files directory)"
     '6' = "  - User-limited (only you have access to the programs, installed in the AppData directory)"
-    '7' = "So ? Where ? [S | U] "
+    '7' = "So ? Where ? [system | user] "
     '8' = "The installation will now begin..."
     '9' = "Creating main directories :"
     '10' = "Creating software directories :"
@@ -683,11 +947,11 @@ if ($new -eq $true){
     Write-Output " "
     Write-Output "=========================================================================================="
     Write-Output $langmap['9']
-    if ($installLocation -eq "S"){
+    if (($installLocation -eq "system") -or ($installLocation -eq "système") -or ($installLocation -eq "systeme")){
         $binairiesDir = "$env:programfiles\Kirkwood Soft"
         $pathname = "Kirkwood Soft"
         $userDataDir = "$env:appdata\Kirkwood Soft"
-    } elseif ($installLocation -eq "U"){
+    } elseif (($installLocation -eq "user") -or ($installLocation -eq "utilisateur")){
         $binairiesDir = "$env:appdata\Kirkwood Soft\binairies"
         $pathname = "Kirkwood Soft"
         $userDataDir = "$env:appdata\Kirkwood Soft\data"
@@ -710,10 +974,8 @@ if ($new -eq $true){
     foreach ($newInstallOptions_currentOption in $newInstallOptions_Array){
         $currentProgramName = $newInstallOptions_currentOptionName["$newInstallOptions_currentOption"]
         Write-Output "      - $currentProgramName"
-        if ($null -eq $key){
-            $key = Read-Host -Prompt $($langmap.36)
-        }
-        $token = "76492d1116743f0423413b16050a5345MgB8AHQASwBCAFkAdABrADkAawBCAEgAaAB5ADUAYQBQAEkAMgB4AFcAVQB4AHcAPQA9AHwAYQA1ADAAOQBjAGIAOQA2AGYANwA0ADMANwA4AGYAMgBiAGMAYwA0ADAAYwA2AGYAYQAyADUAMQA1ADAAOQBkADcAOQBkADAAOQA3ADEAZgA1AGIAZAA4AGEAYgA0ADEAYQBkADIAYgBjADYAOQBmADkANAAyAGMAMwAzADkAMAA1ADAAMwA4ADQAYgA1AGIAOQBiADcAOQA1AGEAMgBhAGEAZQAyAGMAZQBkADIAOABkAGEANABjADMAYwBmADMANAAxAGUAOAA5ADUAMABiAGIANwAyAGUAZgAyAGEAYwA3ADEAOAA4AGYAZgA4ADEANQAzADIANgBiADgAZABiADMAYgBhADUANABiADIAZQA1ADAANAA5AGEAZgAwADgAMQA3AGYAYgA5ADQAYwBjADMAZgA1ADgANABlADYAMAA0ADQAZQA3AGEAMQAxADMAYwBkADgAZQA1ADcAMAAzADUANgBhAGYAOQBiADAAMQA2ADIAMQBjADkAMAAxADcA"
+        $key = Read-Host $langmap['36'] 
+        $token = "76492d1116743f0423413b16050a5345MgB8AFMAaABOAE4AeQBOAHAAOQBEAHEANABFAGUANwBjAHoAeQBGAC8AVgBuAFEAPQA9AHwAOQBiAGQAZgBmAGUANwBmADgAYQBlAGYANwA2AGUAMwBiAGQAYQBiAGIANwAzAGYAZABhADQANABlADMAOQA2ADkAYQA0ADUAMABlADIAMABhADkAOQBiADMAOAAwAGIAMABmAGEAMwA2ADcANwAwADUANwBjAGYAMwAzADYANQBmADIAYQAxADMANQBkAGYAZgA1ADcAOQAwADcAYgBjADUAMgBjAGMAYwBhAGMAMQAwADAAMQBhADcAMgBlAGMAZgAxADQANQA2AGEANQBjADkAOABiAGUANQBmAGUAOABjADgANgA3AGIANwA4ADkAZgBhADcANgA5ADAAMwAxAGMAMgBlADAAZQBkADEAMAAwAGQAZgBhADgAOQA2AGQAOQAyAGMANAA3ADAAZgAxAGYAOQA2AGYAMwBmADUAYwA0ADcAYgAzAGUAMQA1AGYAMwAxADcAZAA1ADUAYgA3AGQAYwBjAGQANgAzAGEAMAA2ADQAMABmAGEAZgA4AGEA"
         $versionNumber = dlGitHub -repo "$currentProgramName" -endLocation $binairiesDir\$currentProgramName -file "main.ps1" -lang "$lang" -token "$token" -key $key
         Add-Content -Value "$currentProgramName = $versionNumber" -Path "$binairiesDir\$currentProgramName\VERSION.txt"
     }
