@@ -266,6 +266,8 @@ $frlangmap = @{
     '60' = "Suppression d'AppData"
     '61' = "Il est recommandé de redémarrer votre ordinateur après la manipulation de nos programmes."
     '62' = "Merci d'enregistrer votre travail avant de continuer."
+    '63' = "Installtion du gestionnaire de notification"
+    '64' = "[✓] BurnToast a bien été installé !"
 }
 
 $enlangmap = @{
@@ -330,6 +332,8 @@ $enlangmap = @{
     '60' = "Removing AppData"
     '61' = "It is recommended to restart after manipulating our software."
     '62' = "Please make sure you have saved your work before restarting..."
+    '63' = "Installtion of the notification manager"
+    '64' = "[✓] BurnToast successfully installed !"
 }
 
 
@@ -412,9 +416,15 @@ if ((Test-Path -Path "$env:APPDATA\Kirkwood Soft.") -eq $false){
 
 
 if ($new -eq $true){
-    Set-PSRepository -Name 'PSGallery' -InstallationPolicy Trusted
-    $null = Install-Module -Name BurntToast -RequiredVersion 0.8.5
-    Set-PSRepository -Name 'PSGallery' -InstallationPolicy Untrusted
+    if (!(Get-Module -ListAvailable -Name BurntToast)){
+        Write-Output " "
+        Write-Output "------------------------------------------------------------------------------------------"
+        Write-Output $langmap['63']
+        Set-PSRepository -Name 'PSGallery' -InstallationPolicy Trusted
+        Install-Module -Name BurntToast -RequiredVersion 0.8.5
+        Set-PSRepository -Name 'PSGallery' -InstallationPolicy Untrusted
+        Write-Output $langmap['64']
+    }
     Write-Output " "
     Write-Output "=========================================================================================="
     Write-Output $langmap['9']
